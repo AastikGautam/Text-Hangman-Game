@@ -4,7 +4,14 @@ import java.util.Scanner;
 
 public class W4D2StudyHallExercise {
 	/* Replace this line with a proper header which includes your name */
-	
+	/**
+	*<P>
+	*Copyright: Copyright Â© 2018
+	*</P>
+	*
+	*@author Aastik Gautam
+	*@version 1.00
+	*/
 
 	private static String usersName;
 	private static String inputFromUser;
