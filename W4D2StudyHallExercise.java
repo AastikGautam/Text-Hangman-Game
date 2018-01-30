@@ -53,6 +53,7 @@ public class W4D2StudyHallExercise {
         else if(inputFromUser.equals("q")) {
         	System.out.println("Quit the game command recognised");
         	System.out.println("Thank You For Playing,"+usersName);
+		Return;
         }
 
 			/* Display error (if command is none of the above) */
